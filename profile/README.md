@@ -6,7 +6,7 @@ We build minimal infrastructure for accountable and verifiable cognition.
 
 This organization hosts two lines of work:
 
-**Theory** — Finite causal event systems and the causal observability gap. A mid-level mathematical framework that unifies distributed systems, causal diagnosis, explainability, auditing, and multi-agent shared-state formation.
+**Theory** — Finite causal event systems and the causal observability gap. A mathematical framework that unifies distributed systems, causal diagnosis, explainability, auditing, and multi-agent shared-state formation.
 
 **Protocol** — Narrow-waist event protocols (JEP, COE, HJS, JAC) for AI accountability and cognitive consensus. Four immutable primitives (J/D/T/V), optional extensions, zero legal liability assignment.
 
