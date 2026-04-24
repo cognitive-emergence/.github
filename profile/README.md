@@ -4,22 +4,9 @@ We build minimal infrastructure for accountable and verifiable cognition.
 
 ## What We Do
 
-This organization hosts two lines of work:
 
 **Theory** — Finite causal event systems and the causal observability gap. A mathematical framework that unifies distributed systems, causal diagnosis, explainability, auditing, and multi-agent shared-state formation.
 
-**Protocol** — Narrow-waist event protocols (JEP, COE, HJS, JAC) for AI accountability and cognitive consensus. Four immutable primitives (J/D/T/V), optional extensions, zero legal liability assignment.
-
-Both lines share the same design philosophy: minimal intrusion, maximum compatibility, verifiable by third parties without pre-established trust.
-
-## Repositories
-
-| Repository | Purpose | License |
-|------------|---------|---------|
-| `jep-eu-compliance` | EU AI Act multi-industry compliance mappings | MIT |
-| `spec` | Protocol specifications (JEP, HJS, JAC, COE) |  MIT / Apache 2.0 |
-| `whitepaper` | Causal observability theory and cognitive emergence |  MIT / Apache 2.0 |
-| `core` | Reference implementations | MIT / Apache 2.0 |
 
 ## Principles
 
