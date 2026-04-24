@@ -17,8 +17,8 @@ Both lines share the same design philosophy: minimal intrusion, maximum compatib
 | Repository | Purpose | License |
 |------------|---------|---------|
 | `jep-eu-compliance` | EU AI Act multi-industry compliance mappings | MIT |
-| `spec` | Protocol specifications (JEP, HJS, JAC, COE) | CC0 |
-| `whitepaper` | Causal observability theory and cognitive emergence | CC0 |
+| `spec` | Protocol specifications (JEP, HJS, JAC, COE) |  MIT / Apache 2.0 |
+| `whitepaper` | Causal observability theory and cognitive emergence |  MIT / Apache 2.0 |
 | `core` | Reference implementations | MIT / Apache 2.0 |
 
 ## Principles
